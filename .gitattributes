@@ -3,3 +3,6 @@ web_scraping/scraped_text_bbc.txt filter=lfs diff=lfs merge=lfs -text
 web_scraping/*.txt filter=lfs diff=lfs merge=lfs -text
 web_GPT_4/csv* filter=lfs diff=lfs merge=lfs -text
 web_GPT_4/csv*.csv filter=lfs diff=lfs merge=lfs -text
+web_GPT_4/*.txt filter=lfs diff=lfs merge=lfs -text
+web_data_processing/*.txt filter=lfs diff=lfs merge=lfs -text
+web_GPT_3.5/*.txt filter=lfs diff=lfs merge=lfs -text
