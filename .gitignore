@@ -1,0 +1,10 @@
+.DS_Store
+
+__pycache__/
+.venv/
+.vscode/
+nltk-3.8.1/
+venv/
+
+.env
+

@@ -1,0 +1,5 @@
+web_scraping/scrape_bbc_pidgin.txt filter=lfs diff=lfs merge=lfs -text
+web_scraping/scraped_text_bbc.txt filter=lfs diff=lfs merge=lfs -text
+web_scraping/*.txt filter=lfs diff=lfs merge=lfs -text
+web_GPT_4/csv* filter=lfs diff=lfs merge=lfs -text
+web_GPT_4/csv*.csv filter=lfs diff=lfs merge=lfs -text
