@@ -2,6 +2,7 @@ import os
 
 
 # Code to delete lines with x number of length
+
 # for idx, line in enumerate(lines):
 #     if len(line) !=1:
 #         new_input += (line + "\n")
